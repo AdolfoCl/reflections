@@ -11,4 +11,8 @@ What are some situations when branches would be helpful in keeping your history 
 
 	Sería muy interesante para manejar las versiones del software, cada vez que se instala en producción se podría crear un branch con el nombre de la versión...
 
+How do the diagrams help you visualize the branch structure?
+
+	Es re gueno para seguir la huella de las diferentes versiones del software
+
 
