@@ -9,7 +9,12 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    En realidad creo que respecto del pull a mi personalmente me gistaría
+	que fuese un proceso automático de sincronización, ya que corresponden
+	a cambios commited completamente por otra persona. 
+	Alguien podría desear hacerlo manualmente para tomar absoluta conciencia
+	de los cambios que han sido realizados por otros a los archivos del
+	proyecto.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
