@@ -27,7 +27,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Alguno de los beneficios son los siguientes:
+	- Permite comparar la versión local con la versión "oficial"
+	- Podemos hacer merge de la aplicación local con la versión remota
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
