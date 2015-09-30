@@ -39,4 +39,9 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Preparar los cambios en un branch diferente es muy apropiado para el 
+	trabajo en equipo, ya que permite que diferentes miembros del equipo
+	intercambien ideas acerca del cambio antes de realizarlo en el 
+	proyecto mismo. Definitivamente complica un poco la actualizacion
+	directa del proyecto, pero en condiciones normales esto puede
+	ser apreciado antes de introducir errores
